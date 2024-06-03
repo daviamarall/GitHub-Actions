@@ -1,4 +1,4 @@
-```markdown
+
 # Curso de GitHub Actions
 
 Bem-vindo ao curso completo de GitHub Actions! Este curso é destinado a desenvolvedores que desejam aprender a automatizar seus fluxos de trabalho de desenvolvimento, integração contínua (CI) e entrega contínua (CD) usando GitHub Actions.
