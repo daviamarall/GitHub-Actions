@@ -75,8 +75,4 @@ github-actions-curso/
 
 Contribuições são bem-vindas! Se você encontrar algum erro ou quiser adicionar mais conteúdo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
