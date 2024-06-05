@@ -629,35 +629,4 @@ jobs:
         curl -X POST -H "Content-Type: application/json" -d '{"status": "${{ job.status }}"}' https://monitoring.example.com/api
 ```
 
----
 
-### Estrutura do Repositório no GitHub:
-
-```plaintext
-github-actions-curso/
-├── modulo1/
-│   ├── aula1.1.md
-│   ├── aula1.2.md
-│   ├── aula1.3.md
-├── modulo2/
-│   ├── aula2.1.md
-│   ├── aula2.2.md
-│   ├── aula2.3.md
-├── modulo3/
-│   ├── aula3.1.md
-│   ├── aula3.2.md
-│   ├── aula3.3.md
-├── modulo4/
-│   ├── aula4.1.md
-│   ├── aula4.2.md
-│   ├── aula4.3.md
-├── modulo5/
-│   ├── aula5.1.md
-│   ├── aula5.2.md
-│   ├── aula5.3.md
-├── modulo6/
-│   ├── aula6.1.md
-│   ├── aula6.2.md
-│   ├── aula6.3.md
-└── recursos-adicionais.md
-```
