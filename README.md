@@ -41,7 +41,7 @@ O curso é dividido em seis módulos, cada um com várias aulas. Cada módulo ab
 
 ## Contribuições
 
-```
+
 Contribuições são bem-vindas! Se você encontrar algum erro ou quiser adicionar mais conteúdo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ---
