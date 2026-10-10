@@ -1,47 +1,23 @@
+# GitHub Actions — Anotações de estudo
 
-# Curso de GitHub Actions
+Material de estudo sobre **CI/CD com GitHub Actions**: workflows, secrets, integrações, boas práticas e casos de uso avançados.
 
-Bem-vindo ao curso completo de GitHub Actions! Este curso é destinado a desenvolvedores que desejam aprender a automatizar seus fluxos de trabalho de desenvolvimento, integração contínua (CI) e entrega contínua (CD) usando GitHub Actions.
+## 📚 Conteúdo
 
-## Estrutura do Curso
+- [Anotações completas](<Curso GitHub Actions.md>)
 
-O curso é dividido em seis módulos, cada um com várias aulas. Cada módulo aborda um aspecto diferente do uso do GitHub Actions, desde a configuração inicial até o uso avançado e casos de uso complexos.
+## 🎯 Módulos
 
-### Módulo 1: Introdução ao GitHub Actions
-- **Aula 1.1: O que é GitHub Actions?**
-- **Aula 1.2: Conceitos Básicos**
-- **Aula 1.3: Configuração Inicial**
+1. **Introdução ao GitHub Actions** — conceitos e configuração inicial
+2. **Criando e executando workflows** — primeiro workflow, actions, variáveis e secrets
+3. **Integrações e notificações** — serviços externos, notificações e webhooks
+4. **CI/CD** — integração contínua, entrega contínua e deploys
+5. **Otimização e boas práticas** — reuso de workflows, performance e segurança
+6. **Casos de uso avançados** — actions personalizadas e automações
 
-### Módulo 2: Criando e Executando Workflows
-- **Aula 2.1: Primeiro Workflow**
-- **Aula 2.2: Utilizando Actions**
-- **Aula 2.3: Variáveis e Secrets**
+## 🔗 Referências
 
-### Módulo 3: Integrações e Notificações
-- **Aula 3.1: Integrando com Outros Serviços**
-- **Aula 3.2: Enviando Notificações**
-- **Aula 3.3: Usando Webhooks**
+- [GitHub Actions — Docs](https://docs.github.com/actions)
+- [Awesome Actions](https://github.com/sdras/awesome-actions)
 
-### Módulo 4: CI/CD com GitHub Actions
-- **Aula 4.1: Integração Contínua (CI)**
-- **Aula 4.2: Entrega Contínua (CD)**
-- **Aula 4.3: Deploys Complexos**
-
-### Módulo 5: Otimização e Melhores Práticas
-- **Aula 5.1: Reutilizando Workflows**
-- **Aula 5.2: Performance e Escalabilidade**
-- **Aula 5.3: Segurança e Conformidade**
-
-### Módulo 6: Casos de Uso Avançados
-- **Aula 6.1: Criando Actions Personalizadas**
-- **Aula 6.2: Automatizando Tarefas Comuns**
-- **Aula 6.3: Monitoramento e Logging**
-
-
-
-## Contribuições
-
-
-Contribuições são bem-vindas! Se você encontrar algum erro ou quiser adicionar mais conteúdo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
----
+> Repositório de **estudos**, parte do meu portfólio de **DevOps / SRE**. Veja também [devops-pipeline-lab](https://github.com/daviamarall/devops-pipeline-lab), com um pipeline real.
